@@ -24,3 +24,9 @@ AWS <-> local PC MYsql 연결 확인
 Cloudera Manager 사용법 확인  
 하지만 이번 프로젝트에 사용이 가능한지 의문이든다  
 사용해볼 기술(spark, hadoop 등등)을 좀 더 고민해봐야겠다  
+
+09/04
+Cloudera Manager는 말그대로 관리해주는 툴일 뿐이고
+사용하는 기술이 더 중요한듯하다
+Flume에서 로그 데이터밖에 못읽는줄 알았는데 csv도 가능하다 한다
+활용방안 고민중
