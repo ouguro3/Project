@@ -40,3 +40,7 @@ Flume에서 로그 데이터밖에 못읽는줄 알았는데 csv도 가능하다
 Django 공부 시작
 서비스 구현을 Django로 하기로 결정해서 
 간단한 틀 정도를 구현하기로 함
+
+09/09
+Django 서버 및 app 구축 시작
+BootStrap 및 css, html로 프레임 구축 시작
