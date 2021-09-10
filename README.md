@@ -44,3 +44,7 @@ Django 공부 시작
 09/09
 Django 서버 및 app 구축 시작
 BootStrap 및 css, html로 프레임 구축 시작
+
+09/10
+Django 프레임 구축 방법 연구
+템플릿 설정 방법 확인
