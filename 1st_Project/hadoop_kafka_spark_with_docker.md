@@ -1,4 +1,4 @@
-# Docker를 이용한 Hadoop 분산 Cluster - Spark 환경과 Kafka 분산 broker환경 구축 및 연동
+# Docker를 이용한 Hadoop 분산 Cluster - Spark 환경과 Kafka 분산 broker환경 구축 및 연동-
 
 Hadoop은 빅데이터 처리를 HDFS라는 디스크 위에서 맵리듀스를 통해 데이터셋을 쪼개 병렬처리하게 된다
 하지만 HDFS를 사용하기 위해서는 Disk I/O는 불가피한데 Disk I/O는 다들 알다시피 보조 저장장치에서 발생하기 때문에 속도의 한계가 있다
